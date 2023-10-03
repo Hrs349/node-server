@@ -1,7 +1,6 @@
 {
   "name": "listadetareasnode",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "node listasDeTareas.js"
@@ -10,6 +9,9 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "chalk": "^5.3.0",
     "readline-sync": "^1.4.10"
-  }
+  },
+  "devDependencies": {},
+  "description": ""
 }
